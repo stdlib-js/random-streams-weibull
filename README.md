@@ -543,6 +543,23 @@ $ random-weibull 2.0 1.0 -n 10 --seed 1234
 
 <!-- /.cli -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/random/base/weibull`][@stdlib/random/base/weibull]: Weibull distributed pseudorandom numbers.
+-   [`@stdlib/random/iter/weibull`][@stdlib/random/iter/weibull]: create an iterator for generating pseudorandom numbers drawn from a Weibull distribution.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -607,6 +624,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [weibull]: https://en.wikipedia.org/wiki/Weibull_distribution
 
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
+
+<!-- <related-links> -->
+
+[@stdlib/random/base/weibull]: https://github.com/stdlib-js/random-base-weibull
+
+[@stdlib/random/iter/weibull]: https://github.com/stdlib-js/random-iter-weibull
+
+<!-- </related-links> -->
 
 </section>
 
