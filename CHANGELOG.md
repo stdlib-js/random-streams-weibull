@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-08-11)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`504a3f1`](https://github.com/stdlib-js/stdlib/commit/504a3f1d1db20b670b48efd1c292d7efbb433b58) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
 -   [`b87254d`](https://github.com/stdlib-js/stdlib/commit/b87254d4535a3b90bf3d0068750ed6e9ca5dbc85) - **docs:** fix parameter descriptions in Weibull distribution packages _(by Philipp Burckhardt)_
 
 </details>
